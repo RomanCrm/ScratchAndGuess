@@ -1,0 +1,10 @@
+c:\users\user\source\repos\ScratchAndGuess\bin\Debug\ScratchAndGuess.exe.config
+c:\users\user\source\repos\ScratchAndGuess\bin\Debug\ScratchAndGuess.exe
+c:\users\user\source\repos\ScratchAndGuess\bin\Debug\ScratchAndGuess.pdb
+c:\users\user\source\repos\ScratchAndGuess\obj\Debug\ScratchAndGuess.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\ScratchAndGuess\obj\Debug\ScratchAndGuess.Form1.resources
+c:\users\user\source\repos\ScratchAndGuess\obj\Debug\ScratchAndGuess.Properties.Resources.resources
+c:\users\user\source\repos\ScratchAndGuess\obj\Debug\ScratchAndGuess.csproj.GenerateResource.Cache
+c:\users\user\source\repos\ScratchAndGuess\obj\Debug\ScratchAndGuess.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ScratchAndGuess\obj\Debug\ScratchAndGuess.exe
+c:\users\user\source\repos\ScratchAndGuess\obj\Debug\ScratchAndGuess.pdb
